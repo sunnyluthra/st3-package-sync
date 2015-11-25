@@ -1,0 +1,74 @@
+{
+	"Seti_tabs_med": true,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"detect_slow_plugins": true,
+	"drag_text": false,
+	"draw_centered": false,
+	"enable_tab_scrolling": false,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".tmp",
+		".hg",
+		"CVS",
+		"tmp"
+	],
+	"font_face": "Droid Sans Mono",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_subsequent_lines": true,
+	"index_exclude_patterns":
+	[
+		"/home/sunny/public_html/donate_a_pastry/mobile/platforms*",
+		"/home/sunny/public_html/32smiles/web/node_modules*",
+		"*.log",
+		"/home/sunny/public_html/donate_a_pastry/web/server/htdocs/wordpress*",
+		"/home/sunny/public_html/donate_a_pastry/web/server/htdocs/app*",
+		"/home/sunny/public_html/bakbak/node_modules*",
+		"/home/sunny/public_html/WordPressPlayGround/server/htdocs/wordpress*",
+		"/home/sunny/public_html/apoyo/dockerize/www/apoyo/htdocs/wordpress*",
+		"/home/sunny/public_html/32smiles/web/test*",
+		"/home/sunny/public_html/testTwSails/node_modules*",
+		"/home/sunny/public_html/32smiles/web/bower_components*",
+		"/home/sunny/public_html/donate_a_pastry/mobile/plugins*",
+		"/home/sunny/public_html/bakbak/fb_search/node_modules*"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": false,
+	"match_brackets_square": true,
+	"overlay_scroll_bars": "enabled",
+	"preview_on_click": true,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": false,
+	"scroll_speed": 0,
+	"show_full_path": true,
+	"sidebar_default": true,
+	"theme": "Seti.sublime-theme",
+	"word_wrap": true,
+	"wrap_width": 100
+}

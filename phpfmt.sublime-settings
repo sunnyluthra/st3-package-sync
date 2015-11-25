@@ -1,0 +1,8 @@
+{
+	"passes":
+	[
+		"ReindentSwitchBlocks"
+	],
+	"php55warning": true,
+	"version": 4
+}
